@@ -12,13 +12,13 @@ const movieSchema=new mongoose.Schema({
     description:{
         type:String
     },
-    Year:{
+    year:{
         type:Number
     },
     country:{
         type:String
     },
-    genre:[],
+    genre:[{type:String}],
     duration:{
         type:String
     },
