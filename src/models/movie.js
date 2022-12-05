@@ -5,23 +5,29 @@ const movieSchema=new mongoose.Schema({
     title:{
         type:String,
         required:true,
+    },year:{
+        type:String
     },
+    Released:{type:String},
+    runtime:{
+        type:String
+    }, 
+    genre:[{type:String}],
     director:{
         type:String,
     },
-    description:{
+    writer:{type:String},
+    actors:{type:String},
+    plot:{
         type:String
     },
-    year:{
-        type:Number
-    },
+    language:{type:String},
+    
     country:{
         type:String
     },
-    genre:[{type:String}],
-    duration:{
-        type:String
-    },
+   
+    
     poster:{type:String}
 })
 
