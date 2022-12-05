@@ -1,0 +1,73 @@
+[
+    {
+        "title": "The Gold Rush",
+    "year": "1925",
+    "released": "13 Jul 1925",
+    "runtime": "95 min",
+    "genre": "Adventure, Comedy, Drama",
+    "director": "Charles Chaplin",
+    "writer": "Charles Chaplin",
+    "actors": "Charles Chaplin, Mack Swain, Tom Murray",
+    "plot": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+    "language": "English, None",
+    "country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": "2003",
+    "released": "09 Jul 2003",
+    "runtime": "143 min",
+    "genre": "Action, Adventure, Fantasy",
+    "director": "Gore Verbinski",
+    "writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+    "actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+    "plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "language": "English",
+    "country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+        "title": "Vikram",
+        "year": "2022",
+        "released": "03 Jun 2022",
+        "runtime": "175 min",
+        "genre": "Action, Crime, Thriller",
+        "director": "Lokesh Kanagaraj",
+        "writer": "Lokesh Kanagaraj, Rathna Kumar",
+        "actors": "Kamal Haasan, Vijay Sethupathi, Fahadh Faasil",
+        "plot": "A high-octane action film where a special investigator is assigned a case of serial Killings, he finds the case is not what it seems to be and leading down this path is only going to end in a war between everyone involved.",
+        "language": "Tamil, Hindi, Telugu, Kannada, Malayalam",
+        "country": "India",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDRiOWNjYjUtMDI0ZC00MDMyLTkwZDItNTU5NWQ1NjEyNGYxXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_SX300.jpg"
+    },
+    {
+        "title": "Tangled",
+    "year": "2010",
+    "released": "24 Nov 2010",
+    "runtime": "100 min",
+    "genre": "Animation, Adventure, Comedy",
+    "director": "Nathan Greno, Byron Howard",
+    "writer": "Dan Fogelman, Jacob Grimm, Wilhelm Grimm",
+    "actors": "Mandy Moore, Zachary Levi, Donna Murphy",
+    "plot": "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.",
+    "language": "English, German",
+    "country": "United States",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_SX300.jpg"
+    },
+    {
+        "title": "Kala",
+        "year": "2021",
+        "released": "25 Mar 2021",
+        "runtime": "130 min",
+        "genre": "Action, Thriller",
+        "director": "Rohith V.S.",
+        "writer": "Yadhu Pushpakaran, Rohith V.S.",
+        "actors": "Tovino Thomas, Sumesh Moor, Lal",
+        "plot": "A psychological thriller that revolves around Shaji who faces an intriguing conflict with the many layered shades of human behavior.",
+        "language": "Malayalam",
+        "country": "India",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDc2MzI3NjMtYWNiNy00ZDY2LWFlOGUtY2M5YjdlZmVkZTBiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg"
+    }
+
+]
