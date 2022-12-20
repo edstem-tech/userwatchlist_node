@@ -1,5 +1,5 @@
-const connectDB=require('./src/db/connect');
-const Movie = require ('./src/models/movie')
+const connectDB=require('../src/db/connect');
+const Movie = require ('../src/models/movie')
 const jsonMovies=require('./movie.json')
 
 const start=async()=>{
